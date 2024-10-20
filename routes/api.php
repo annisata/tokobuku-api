@@ -9,9 +9,10 @@ use App\Http\Controllers\BukuController;
 //     return $request->user();
 // })->middleware('auth:sanctum');
 
-Route::get('/test', function(){
-    return 'API is working';
-});
+// Route::get('/test', function(){
+//     return 'API is working';
+// });
+
 Route::get('/bukus/search', [BukuController::class, 'search']);
 Route ::apiResource('kategoris', KategoriController::class);
 Route ::apiResource('bukus', BukuController::class);
