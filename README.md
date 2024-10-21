@@ -1,3 +1,8 @@
+Project
+Nama : Annisa Tri Amalia
+NIM : 362358302084
+Kelas : 2B TRPL
+
 1. Menambahkan Validasi
 ![01](image/01.png)
 
