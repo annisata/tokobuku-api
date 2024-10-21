@@ -9,11 +9,11 @@
  Menambahkan Searching
  ![03](image/03.png)
 
- Hasil
+ Hasil Searching
  ![04](image/04.png)
 
 ngrok
-![05](image.png)
+![05](image/05.png)
 
 Hasil ngrok
-![06](image-1.png)
+![06](image/06.png)
