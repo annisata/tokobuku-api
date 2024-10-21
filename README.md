@@ -14,3 +14,6 @@
 
 ngrok
 ![05](image.png)
+
+Hasil ngrok
+![06](image-1.png)
